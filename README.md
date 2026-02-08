@@ -1,4 +1,3 @@
 <div align="center">
-  <img src="IL_NOME_DELLA_TUA_GIF.gif" width="250" />
-  <h1>HI</h1>
+  <img src="img/mio_logo.gif" width="250" alt="Il mio logo rotante">
 </div>

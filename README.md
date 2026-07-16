@@ -2,8 +2,8 @@
 
 <img src="img/haunter.gif" width="220" alt="haunter">
 
-<br><br>
+#<br><br>
 
-[![LIVE](https://img.shields.io/badge/🌐_LIVE-discordia.serveblog.net-00ff41?style=for-the-badge&labelColor=0a0a0a)](https://discordia.serveblog.net/)
+#[![LIVE](https://img.shields.io/badge/🌐_LIVE-discordia.serveblog.net-00ff41?style=for-the-badge&labelColor=0a0a0a)](https://discordia.serveblog.net/)
 
-</div>
+#</div>

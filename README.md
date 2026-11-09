@@ -72,9 +72,3 @@ traduttori offline, backup delle foto sul tuo server, un messenger su Tor.
 
 ---
 
-→
-![Security+](https://img.shields.io/badge/Security%2B-planned-C8202F?style=flat-square)
-→
-![OSCP](https://img.shields.io/badge/OSCP-goal-1B1B1B?style=flat-square)
-
-</div>

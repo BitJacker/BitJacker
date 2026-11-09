@@ -42,8 +42,28 @@ traduttori offline, backup delle foto sul tuo server, un messenger su Tor.
 **Database, runtime e framework**<br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,nodejs,electron,discordjs,androidstudio" alt="Database e framework">
 
-**Sistemi, hardware e tool**<br>
-<img src="https://skillicons.dev/icons?i=linux,mint,ubuntu,raspberrypi,arduino,git,github,vscode,blender,robloxstudio" alt="Sistemi e tool">
+**Sistemi e tool**<br>
+<img src="https://skillicons.dev/icons?i=linux,kali,mint,ubuntu,git,github,vscode,grafana,blender,unreal,robloxstudio" alt="Sistemi e tool">
+
+**Security & network**<br>
+<img src="https://img.shields.io/badge/Kali_Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux">
+<img src="https://img.shields.io/badge/Tor-7E4798?style=flat-square&logo=torproject&logoColor=white" alt="Tor">
+<img src="https://img.shields.io/badge/Shodan-B80000?style=flat-square" alt="Shodan">
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" alt="Fortinet">
+<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white" alt="OpenVPN">
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+
+**Hardware, IoT & AI locale**<br>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32">
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+<img src="https://img.shields.io/badge/M5Stack-2B2B2B?style=flat-square&logo=m5stack&logoColor=white" alt="M5Stack">
+<img src="https://img.shields.io/badge/AiMotion_2_(K230)-1E88E5?style=flat-square" alt="AiMotion 2 K230">
+<img src="https://img.shields.io/badge/MicroPython-2B2728?style=flat-square&logo=micropython&logoColor=white" alt="MicroPython">
+<img src="https://img.shields.io/badge/LoRa_·_Meshtastic-67EA94?style=flat-square" alt="LoRa Meshtastic">
+<img src="https://img.shields.io/badge/NeuroSky_MindWave-5C2D91?style=flat-square" alt="MindWave">
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama">
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
 
 </div>
 
@@ -71,4 +91,3 @@ traduttori offline, backup delle foto sul tuo server, un messenger su Tor.
 </div>
 
 ---
-

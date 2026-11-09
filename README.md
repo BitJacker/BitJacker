@@ -2,7 +2,7 @@
 
 <img src="img/haunter.gif" width="200" alt="haunter">
 
-# Ciao, sono Giacomo 👋
+# Ciao, sono Giacomo 
 
 **Studente di informatica · Cybersecurity · Software che gira in locale**
 

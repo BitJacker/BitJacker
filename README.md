@@ -72,11 +72,6 @@ traduttori offline, backup delle foto sul tuo server, un messenger su Tor.
 
 ---
 
-### 🎯 Percorso certificazioni
-
-<div align="center">
-
-![eJPT](https://img.shields.io/badge/eJPT-next-4B8BBE?style=flat-square)
 →
 ![Security+](https://img.shields.io/badge/Security%2B-planned-C8202F?style=flat-square)
 →
